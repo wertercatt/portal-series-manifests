@@ -6,8 +6,8 @@ Path:
 Path:portal/
 Path:6c7c79045e9928b1b95a81eae15f5864:portal/GameInfo.txt
 Path:portal/bin/
-Path:857e8311f2902d905c34a41b14da7beb:portal/bin/client.dll
-Path:272e9c49e4645283fa77a784b1bbafdc:portal/bin/server.dll
+Path:5972f2fbaf4eab5192ceb2e8b1d16f0c:portal/bin/client.dll
+Path:6b85420026f950773f5644590599590d:portal/bin/server.dll
 Path:portal/cfg/
 Path:3787a38be4aaa82a46979e2afb7514e3:portal/cfg/chapter1.cfg
 Path:8fcc31c62e687039ccc19b871fd195f9:portal/cfg/chapter10.cfg
@@ -3368,7 +3368,7 @@ Path:e3d0562a93aca9e2422eaec8096dcac3:portal/scripts/game_sounds_player_portal.t
 Path:99c88a01f94f57de297e7d2c9a0c2c5f:portal/scripts/game_sounds_portal.txt
 Path:46bcd26ddd1eb5756bc106787ac66a22:portal/scripts/game_sounds_weapons_episodic.txt
 Path:a26023c2e923e3996c2712d546d96783:portal/scripts/game_sounds_weapons_portal.txt
-Path:fdf17b066f1cfbfebafd3b062af1c14f:portal/scripts/gamehaptics.txt
+Path:47d5d72e06655402e94913cc2cb67318:portal/scripts/gamehaptics.txt
 Path:60fa070418009a38a5acd8956e57c3e3:portal/scripts/global_actors.txt
 Path:ea23ba24aae42c9e18b8a56aff5c65ae:portal/scripts/hudanimations_manifest.txt
 Path:980e3d452d15e00811cab2993735a59d:portal/scripts/kb_act.lst
