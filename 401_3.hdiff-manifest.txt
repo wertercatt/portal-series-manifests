@@ -6,8 +6,8 @@ Path:
 Path:portal/
 Path:6c7c79045e9928b1b95a81eae15f5864:portal/GameInfo.txt
 Path:portal/bin/
-Path:1e4a384f000a9a2bad83a97dbaf28502:portal/bin/client.dll
-Path:52387c27b5de904e2d8fac5ea423ca67:portal/bin/server.dll
+Path:ae86152136a0624dc545883efbbe260a:portal/bin/client.dll
+Path:a60d20244006bcceefd3f4df18dd305c:portal/bin/server.dll
 Path:portal/cfg/
 Path:3787a38be4aaa82a46979e2afb7514e3:portal/cfg/chapter1.cfg
 Path:8fcc31c62e687039ccc19b871fd195f9:portal/cfg/chapter10.cfg
@@ -3266,8 +3266,8 @@ Path:e1750b085472f122f7b2691017e46fef:portal/resource/closecaption_dutch.dat
 Path:16c2bdc15df67b3ec2d68acb258728a1:portal/resource/closecaption_dutch.txt
 Path:b950ecf9b1d26b340d4cfff7b444250b:portal/resource/closecaption_english.dat
 Path:b7e9cf6ed29c94d236326ec386235198:portal/resource/closecaption_english.txt
-Path:15ba60b3f6384317902f91fd7eac0fe4:portal/resource/closecaption_finnish.dat
-Path:76f8af57dd9b40c917c368f44d186979:portal/resource/closecaption_finnish.txt
+Path:790b42df6be03d94a970296742654004:portal/resource/closecaption_finnish.dat
+Path:89593513b6cd69264b0b514221550a01:portal/resource/closecaption_finnish.txt
 Path:4ee1da6f7576141365ac79e7904dfaab:portal/resource/closecaption_french.dat
 Path:b221001faafa2d293ee93fe00d3ed819:portal/resource/closecaption_french.txt
 Path:3d34ef6666a36c80c1848836fa895657:portal/resource/closecaption_german.dat
