@@ -1,13 +1,13 @@
 HDiff_Manifest_Version:1.0
 Checksum_Type:md5
-Path_Count:3610
+Path_Count:3611
 
 Path:
 Path:portal/
 Path:6c7c79045e9928b1b95a81eae15f5864:portal/GameInfo.txt
 Path:portal/bin/
-Path:4c473564fe75b83987c9cad03e8e34a4:portal/bin/client.dll
-Path:a8b7ba5686a195b31d891a172031cf65:portal/bin/server.dll
+Path:857e8311f2902d905c34a41b14da7beb:portal/bin/client.dll
+Path:272e9c49e4645283fa77a784b1bbafdc:portal/bin/server.dll
 Path:portal/cfg/
 Path:3787a38be4aaa82a46979e2afb7514e3:portal/cfg/chapter1.cfg
 Path:8fcc31c62e687039ccc19b871fd195f9:portal/cfg/chapter10.cfg
@@ -3150,8 +3150,8 @@ Path:eb28c1f2b09a4ef4031ca1d46e40b239:portal/resource/NewGameDialog.res
 Path:5cab7a5cfdbe3f121d534abd94fa84e4:portal/resource/PortalStatsDisplayScreen.res
 Path:79ae7e96904a848e67222852cba49f18:portal/resource/closecaption_danish.dat
 Path:8be0ff7d4aef974717b470865e8498d1:portal/resource/closecaption_danish.txt
-Path:e1750b085472f122f7b2691017e46fef:portal/resource/closecaption_dutch.dat
-Path:16c2bdc15df67b3ec2d68acb258728a1:portal/resource/closecaption_dutch.txt
+Path:265e6dcc6055944800a3ff1c0871cf18:portal/resource/closecaption_dutch.dat
+Path:284783d6e5aff5cb42e369598b80fda8:portal/resource/closecaption_dutch.txt
 Path:b950ecf9b1d26b340d4cfff7b444250b:portal/resource/closecaption_english.dat
 Path:b7e9cf6ed29c94d236326ec386235198:portal/resource/closecaption_english.txt
 Path:790b42df6be03d94a970296742654004:portal/resource/closecaption_finnish.dat
@@ -3368,6 +3368,7 @@ Path:e3d0562a93aca9e2422eaec8096dcac3:portal/scripts/game_sounds_player_portal.t
 Path:99c88a01f94f57de297e7d2c9a0c2c5f:portal/scripts/game_sounds_portal.txt
 Path:46bcd26ddd1eb5756bc106787ac66a22:portal/scripts/game_sounds_weapons_episodic.txt
 Path:a26023c2e923e3996c2712d546d96783:portal/scripts/game_sounds_weapons_portal.txt
+Path:fdf17b066f1cfbfebafd3b062af1c14f:portal/scripts/gamehaptics.txt
 Path:60fa070418009a38a5acd8956e57c3e3:portal/scripts/global_actors.txt
 Path:ea23ba24aae42c9e18b8a56aff5c65ae:portal/scripts/hudanimations_manifest.txt
 Path:980e3d452d15e00811cab2993735a59d:portal/scripts/kb_act.lst
