@@ -1,11 +1,12 @@
 HDiff_Manifest_Version:1.0
 Checksum_Type:md5
-Path_Count:374
+Path_Count:375
 
 Path:
 Path:hl2/
 Path:hl2/resource/
 Path:c907aeb642c8b0b2d40bcbf46269951d:hl2/resource/OptionsSubVideo.res
+Path:fec916659f810d625cc2f155ac17c7ce:hl2/resource/dummy.txt
 Path:portal/
 Path:ec8eb5451c31dba3c1fcbb83707e723d:portal/GameInfo.txt
 Path:portal/cfg/
