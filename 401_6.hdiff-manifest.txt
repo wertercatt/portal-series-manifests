@@ -6,8 +6,8 @@ Path:
 Path:portal/
 Path:6c7c79045e9928b1b95a81eae15f5864:portal/GameInfo.txt
 Path:portal/bin/
-Path:6626ab2e91504b1079672b25b1002180:portal/bin/client.dll
-Path:d6f1a3e32fc5f782890b74a2b193877f:portal/bin/server.dll
+Path:57d334a5645d1b865f5ba2dba922af9b:portal/bin/client.dll
+Path:b7b3af9da5a396c9ab457e3b5a0f9019:portal/bin/server.dll
 Path:portal/cfg/
 Path:3787a38be4aaa82a46979e2afb7514e3:portal/cfg/chapter1.cfg
 Path:8fcc31c62e687039ccc19b871fd195f9:portal/cfg/chapter10.cfg
